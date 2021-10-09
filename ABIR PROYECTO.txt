@@ -1,0 +1,4 @@
+-Ir a la carpeta y en la ruta poner
+cmd
+-Luego en el cmd poner
+code .

@@ -1,0 +1,11 @@
+.listado_Pelicula{
+  
+    background: black;
+    width: 100%;
+}
+
+.lista_Pelicula{
+ 
+    margin-bottom: 30xp;
+    border: 1px solid white;
+}
